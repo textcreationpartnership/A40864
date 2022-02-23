@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Phanatick in his colours being a full and final character of a Whig : in a dialogue between Tory and Tantivy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40864</idno>
+            <idno type="STC">Wing F394</idno>
+            <idno type="STC">ESTC R18137</idno>
+            <idno type="EEBO-CITATION">12039500</idno>
+            <idno type="OCLC">ocm 12039500</idno>
+            <idno type="VID">52956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52956)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 67:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Phanatick in his colours being a full and final character of a Whig : in a dialogue between Tory and Tantivy.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English.</term>
+               <term>Great Britain --  Politics and government --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:52956:1"/>
+            <head>THE Phanatick in his Colours: Being a Full and Final Character of a WHIG; IN A DIALOGUE BETWEEN TORY and TANTIVY.</head>
+            <sp>
+               <speaker>Tantivy.</speaker>
+               <p>WEll, <hi>Tory;</hi> did not I tell thee we ſhould vex theſe Plot<g ref="char:EOLhyphen"/>ting Countermining <hi>Whigs</hi> to the heart?</p>
+            </sp>
+            <sp>
+               <speaker>Tory.</speaker>
+               <p>
+                  <hi>You did ſo, and your Propheſie is fulfill'd. But who would have thought Chriſtian Patience and thoſe Godly Zealots ſhould part Habitations; And that the</hi> Whig <hi>ſhould become as great a Sepa<g ref="char:EOLhyphen"/>ratiſt from that Eſſential of a Saint, as he is from the True Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Nay, rather, who was ever ſo mad, to take a <hi>Phanatick</hi> for a paſſive Creature, who for theſe 40 years and upwards, has been ſhewing the maſtery of his heels, in ſpurning and kicking at a Rider that has been ſo merciful to that Beaſt: Nay, and has been ſo pamper'd and high-fed, that tho' he was never ſo peaceably led, he always ſlipt the Rein, or violently broke the Bridle?</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>'Tis true, they are an awkward ſort of unthankful Cattel, that were ever mur<g ref="char:EOLhyphen"/>muring in the midſt of their Manna; and inſtead of keeping the right road to Peace and Tranquility, burſt furiouſly thro' the hedges, and beat down its fences; That to be in the Reer of a herd of unruly Swine, or command a drove of yelping Turkies, ſeems a far more comfortable Dominion. However, me thinks, there might be a Cure found for this Diſtemper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Yes, if they were to be driven as the Butcher drives his Calf, with a Cudgel at one end, and a Halter on t'other.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>But did you obſerve lately, how the Faction fretted it ſelf in the Character of us</hi> Tories, (as they call us) <hi>as if 't had been flead, and baſted with Vinegar?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Yes, and it ſeem'd to be taken with Convulſions, by the drawing up its ugly livid Chaps, and making ſo many wry-mouths at the Loyal Party.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>No, no; that's only the working of our Phyſick. They are grip'd with Addreſ<g ref="char:EOLhyphen"/>ſes, weekly</hi> Heraclitus'<hi>s, and honeſt</hi> Obſervators, <hi>and</hi> Tory Thompſons, <hi>and cannot digest the preſent manner of proceedings, without a ſhrug and a ſowr face.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>I marry Sir! now you talk of a Drench indeed: This has ſtrength enough to purge a <hi>Trojan</hi>-Horſe, and force a Traytor out of a wooden Fundament: On my word, <hi>Tory,</hi> thoſe will try their conſtitutions for 'em. I perceive, indeed, their fleſh is fallen; for yeſterday I met with two <hi>Arch-Whigs,</hi> and to my think<g ref="char:EOLhyphen"/>ing they look'd very malitiouſly and very thin upon't, juſt like a couple of grim Satyrs carv'd upon an old-faſhion'd Cupboard.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>Say you ſo; and do you find their Courage ſo cool'd, ſince thoſe excellent Medi<g ref="char:EOLhyphen"/>cines againſt Rebellion were publiſh'd?</hi>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:52956:2"/>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Yes, thoſe, together with ſome Princely Reſolutions, have prevail'd much; and (ſaving Mr. <hi>Titus</hi>'s preſence) I think have been the Saviours of this Nation; For now the poor <hi>Whig</hi> walks ſleepiſhly about the ſtreets, as melancholly as an empty Bagpipe, gogling in your face like a Creature bewitch'd, or a Fellow half choak'd, with his lop-ears hanging quite over his eyes, like an Aſs under his Load.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>Then you are of opinion that they are ſupports to our preſent Conſtitution; That they 'wake us out of a dead ſleep, and are the only things that belong to our Peace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan</speaker>
+               <p>Yes, they are our undoubted ſecurity, as they are perpetual ſcourges for the Fool's back, that would <hi>bind his King in Chains, and his Nobles in Links of Iron.</hi> They're the unerring Clocks, that go always with the Sun, keep a conſtant motion, and alarm when the Traytor touches the ſtrings; No Birds of Prey, from the tow'ring Hawk to the mouſing Owl, dare quetch while theſe Eagles are upon the wing; They have a Charm of Truth, that lays the evil Spirits, and tho' they can never hope to be belov'd by the Fiends, yet they have thunder-ſtruck them with fear and trembling, and ſo made their Dominion divine over a Legion of Devils.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>In troth, a miraculous Change! For you may remember when they ſnapt us up in every Coffee-Houſe, like a company of peeviſh ill-natur'd Step-mothers, that would prog for none but the Babes of their own Bodies. New meaſures were to be taken both of Church and State, and they themſelves were to ſhape the Cloth, and cut out a Sute for a wooden Lay-man of their own carving. The old Counſellors were to be turn'd out to Nurſe, and Majesty clapt into Swadling-clouts; and inſtead of a Princely Inheri<g ref="char:EOLhyphen"/>tance, reduc'd to a curs'd Guardian, and a Sucking-bottle: In fine, every little Inſect durst vilifie the Royal Prerogative, with a freedom ſo Malicious, Poſitive and Tyran<g ref="char:EOLhyphen"/>nical, as nothing could well justifie, but a ſecond <g ref="char:V">Ʋ</g>ſurpation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>But it ſeems their Zeal was ſo hot, that they have rotten-roaſted their <hi>Cauſe,</hi> and 'tis juſt now dropping off the Spit.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>I, and I believe that's the reaſon why the Author of the Character has ſhew'd himſelf ſo indulgent a Father to his Generation of Vipers, and frets ſo exceſſively at the Cooks, for ſpoiling the Joynt that ſhould have feasted his Family. However, I cannot but wonder that a deſpicable Cur, that has had ſo many of his Teeth beaten out with good ſound Arguments, almost putrified with his own matters of fact, ſhould ven<g ref="char:EOLhyphen"/>ture his Brains too, by ſnarling and barking ſtill at ſo potent an Adverſary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Alaſs! the Monſter is hunger-ſtarv'd, and fury is its laſt ſhift; ſo like a parcel of deſperate Rats pent up in a Buttery, when they can find no hole to creep out at, they fly in your Face. Beſides, the <hi>Whig</hi> is bewitch'd with his old founder'd Jade, and rides his <hi>Cauſe</hi> as the Monkey rides the Mule in the Bear-Garden; and tho' ſhe tumble him, and jumble him never ſo often out of the Sad<g ref="char:EOLhyphen"/>dle, yet he is ſure to get hold of the Main, or cling faſt to her Crupper. And to the boot of all this, we have torn his Fig-leaves, and diſcover'd his Nakedneſs; and nothing is more natural than for a poor Worm to come forth, when the Earth that covers it is trampl'd on.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>Why then, I perceive they are a ſort of incorrigible Slaves, that ſwear perpetual Revenge againſt their Master, becauſe he has beaten them for running away, and gi<g ref="char:EOLhyphen"/>ven 'em Choak cheeſe in their 'Prenticeſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>You have hit it. But I'l put the Caſe; Suppoſe you your ſelf were in purſuit of a Lady of a known Beauty, and as Eminent a Fortune, and after a multitude of private Intrigues, Subtile Deſigns, ſmooth Plots, and plauſible Tales, you had flatter'd her and Fawn'd her into ſome favourable opinion of you, and prevail'd ſo far as to find ſome opportunity to eſcape with your Prize; would it not vex the Liver and Lights of you, think you, to have a third perſon ſtep between, and out of a pure honeſt Principle to his Neighbour, come and knock you off the Horſe back with a Cowl-ſtaff, reſcue the Girl, and reſtore her to her diſtracted Parents?</p>
+            </sp>
+            <pb n="3" facs="tcp:52956:2"/>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>I confeſs this would be on inſupportable piece of ill luck; But is this a paralel Caſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>O! the very ſame; For, juſt as this <hi>Phanatical-Renyard</hi> had got the Church upon his back, and was running ſheer away with her, in comes <hi>Loyalty</hi> and <hi>Reſolution,</hi> arm'd <hi>Cap-a-pee,</hi> and like two <hi>Engliſh</hi>-Champions, redeem'd our Daughter of <hi>Sion,</hi> that had been Condemn'd at <hi>Rome,</hi> and was going to be Sacrific'd at <hi>Geneva.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>What? and are the Phanaticks our mortal Enemies, as well as the Papiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Yes, and 'tis as true as Goſpel, That our Danger is not leſs fatal, if the <hi>Phanatick</hi> ſwells by the ſame blaſt that blows him down; it being ſo far from ſecuring either the King or the Church, that the Malignity would be only tranſ<g ref="char:EOLhyphen"/>planted, and two Peſtilential Sores united in one; which, as it could loſe nothing of its violence, ſo its effects would be equally pernicious. They are like two un<g ref="char:EOLhyphen"/>ruly Whelps in a <hi>Chain,</hi> that pull two ſeveral ways with th' ſame intent of getting looſe; a couple of pure ſticks, that make the ſame uſe of each other to conſu<g ref="char:EOLhyphen"/>mate their ſeveral ends, as two <hi>Knaviſh Executors,</hi> that have both an inclination to defraud the Right Heir. Theſe two Utenſils together make for his moſt <hi>Fal<g ref="char:EOLhyphen"/>lible Holineſs</hi> a moſt <hi>Infallible Tinder-box;</hi> and when he would ſtrike ſure Fire out of his <hi>Jeſuitical</hi> Steel, he takes the <hi>Phanatick</hi> for his Flint.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>O! But he ſeems to be of quite another Kidney; and when he calls us</hi> (Tories) Debauchees <hi>and</hi> Damme-boys, <hi>does he not ſhew his zeal for Religion? Can ſo much filth and nastineſs lie behind ſo fair a Wainſcot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Alaſs! there is no Pretext more ancient, or more familiar; and the ſureſt place to find a Toad in, is to ſearch under a Bed of Sage. Religion is his Iron-bo<g ref="char:EOLhyphen"/>dies, which this crooked Diſciple wears to cheat the world with a ſhew of Up<g ref="char:EOLhyphen"/>rightneſs: and whatever the Meat is, this is ſure to be the Sawce, and is look'd upon as his beſt Ingredient, to make a ſavoury Frigacee of a ſtinking Diſh. And now, ſince my hand's in, I'l give him one turn more; take off the long Robe that hides his Cloven-foot, and ſhew you the <hi>Canvas</hi> on the back-ſide of his Doublet.</p>
+            </sp>
+            <sp>
+               <speaker>To</speaker>
+               <p>
+                  <hi>Come on; 'Tis as comfortable a Scene, to have a Knave ſtrip'd before one, as to ſee the caſing of a Rabbet after a long Fast.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tan.</speaker>
+               <p>Well then; upon the true Faith of a Chriſtian, a <hi>Phinatick</hi> is a <hi>Canibal,</hi> a <hi>State-man eater,</hi> a <hi>Land-Cormorant,</hi> that by blaſting our good Name would ſwallow us alive; a ſly Sheep-biter, that feeds upon nothing but Bloud and Vitals, firſt ſucks out our Reputation, and then leaves our Carcaſe for the Crows. He's the Offil of old <hi>Nol,</hi> that's wheel'd about in a Tub to infect the People, and feed the ſavage Bears. He's Powder-Monkey to a Regiment of Rebels, and at<g ref="char:EOLhyphen"/>tends the Camp with Lectures againſt <hi>Loyalty,</hi> and Aſperſions on the Clergy, as the beſt. Ammunition to blow up the Government, and Caſhier Monarchy. He's a Coffe-Houſe-Recorder, that Arraigns Regal Power, like Felons at the <hi>Old-Baily,</hi> and is ſure to ſum up the Evidence like a Knave, and give Sentence againſt Prerogative; But if you touch upon <hi>Property,</hi> he grins like a Deaths-head in a 'Pothecaries Shop; and like a ſullen <hi>Baboon,</hi> chatters if you do but finger the Chain. This is a ſort of Leaf-gold, which he never produces to the ſtanders by, but they muſt ſtop their Breath, upon pain and peril of being re<g ref="char:EOLhyphen"/>giſter'd for <hi>TORIES.</hi> He is an Infallible Almanack, that points out the motions of the <hi>Dog Stars,</hi> and other Intemperate diſſaffected Planets; and ſhews us how to find out a Rebel for ever. He's a down-right Cheat, and ſhould be Curſt by the Congregation for removing his Neighbours Land-mark, and Tranſplanting the Sacred Right of Kings; for he, to make the Fools Lamp burn, ſteals the Oyle from the Lord's Anointed, and like an Impudent <hi>Pro<g ref="char:EOLhyphen"/>metheus,</hi> Snatches his fire from Heaven, to give life to his Image of <hi>Rye-dough.</hi> He's a <hi>State-lowſe,</hi> with a black liſt upon his Back of the <hi>well-affected,</hi> that Crawls to and fro, and would drop in ill Principles; like <hi>Nits</hi> in the cleaneſt
+<pb n="4" facs="tcp:52956:3"/>Linen. He's a ſure ſtick for a new <hi>Oliver</hi> to build a Scaffold on, and has a Head as round as one of his Shillings; and for love of the Uſurper has kiſs'd the Coyn, till you may ſee the Impreſs of the <hi>Breeches</hi> upon his Face. He's a fair <hi>Copper Plate</hi> of the late times, with the <hi>Brewer</hi> on the one ſide, and <hi>Republica</hi> on to'ther. He's the <hi>Lyon</hi> in the <hi>Fable,</hi> that invites all the <hi>Wild Beaſts</hi> to a Solemn Feaſt, that he himſelf may be ſure of a <hi>Meals Meat,</hi> diſſembling his own <hi>Hunger,</hi> under general bounty, and cloaking private Intereſt with publick good. He's the Son of a <hi>Succubus,</hi> half <hi>Witch</hi> half <hi>Devil,</hi> throwing the State into <hi>Convulſions,</hi> and envying that <hi>Peace</hi> in others which he himſelf cannot ac<g ref="char:EOLhyphen"/>compliſh. A <hi>Malicious Dog,</hi> that Barks at the <hi>Moon</hi> becauſe it Shines. A buiſy <hi>Bawd,</hi> that Preaches up <hi>Innocence,</hi> that he himſelf may have the better oppor<g ref="char:EOLhyphen"/>tunity to <hi>Debauch</hi> it. He's a <hi>Puritanical Jacket-Scowrer,</hi> that uſes railing againſt the <hi>Pope,</hi> as his <hi>Iullers-Earth,</hi> to fetch the Spots out of his own Cloath; or at leaſt, ſo far to obſcure them, that they may not be ſeeen by the leſs Curious and Diſcerning Eye. He's the beſt Proſecuter of <hi>Popery</hi> for ſeveral Reaſons, eſpecially that of <hi>ſet a Thief to Ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h a Thief;</hi> and like an old <hi>Stanch'd Villain</hi> knows, that to Cry <hi>Stop the Rogue,</hi> is the beſt way for himſelf to get off with the Prize. He's <hi>B — r</hi>'s <hi>Boar-Catt,</hi> that not only Mouſes for his Maſter, but like a <hi>Laſcivious Repreſentative</hi> Puſs, goes a rutting to the Houſe-top, and Cat-calls the whole Faction. He's a travel<g ref="char:EOLhyphen"/>ling Juggler, that would not only make the world believe the Moon's made of Green-Cheeſe, but that it's cut out into Penn'orths, and ſold off as it waſts; Preaching up the <hi>Whig</hi> for the True Proteſtant, who is but the ſtinking fiſhy part of the <hi>Mermaid.</hi> He's a turbulent Waſp, and nothing will pleaſe him but a change of Government, which would be as ſweet to him as a Hony-pot. He's a Puritanical ſhark, and can ſtare Majeſty in the face, while he picks his Pocket; A Phánatick indeed by Profeſſion, but by Principle a Jew; and would pervert his <hi>Moſaick</hi> Laws to Circumciſe the Church, and Cut off all decency like a foreskin: and as, on the one hand, he can think it no offence to eaſe himſelf in the <hi>Popes</hi> Triple Crown; So, on the other, he wou'd not ſtick to wipe his B— with the Biſhops Sleeves. In fine He's a Sirreverence in my way, which in my own defence I ſtop my Noſe at, till he's waſh'd away by the next Showr.</p>
+            </sp>
+            <sp>
+               <speaker>To.</speaker>
+               <p>
+                  <hi>Well, Heaven deliver me, both from the Popiſh Hawk, and this Phanatick Buzzard; for 'tis as plain as the Noſe on ones Face, that there is never a Barrel the better Herring. And now, Honest</hi> Tantivy, <hi>give me thy hand; and ſince we muſt part, I tell thee, thou haſt learnt me to distinguiſh the Rebell from the Royalist; The Paraſite from the Preacher; The Jew from the Gentile; The Pharaſee from the Publican; H Reformed Church of</hi> England <hi>man from a Crop-ear'd Presbyterian; A Pulpit from a Tub; A long Coat from a Jump; An Oath of Allegiance from a</hi> Scotch-<hi>Covenant; The Bleſſing of a King from the Curſe of a Commonwealth; Reli<g ref="char:EOLhyphen"/>gion from Roguery; and the Devil from a Saint.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>N. Thompſon.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
